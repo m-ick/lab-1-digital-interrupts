@@ -46,7 +46,7 @@ void toggle_output(){
 }
 
 int main()
-{
+{ 
     char buffer[256];  // Buffer to hold the input text
 
     // Prompt the user to enter a line of text
